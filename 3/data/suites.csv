@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 30 04:03:08 GMT 2023","Thu Nov 30 04:03:08 GMT 2023","1","","guru.qa.LabelsTest","","guru.qa.LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu Nov 30 04:03:04 GMT 2023","Thu Nov 30 04:03:07 GMT 2023","3423","","guru.qa.AttachmentsTest","","guru.qa.AttachmentsTest","testAnnotatedStepAttachments","testAnnotatedStepAttachments()",""
+"passed","Thu Nov 30 04:03:08 GMT 2023","Thu Nov 30 04:03:08 GMT 2023","2","","guru.qa.LabelsTest","","guru.qa.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu Nov 30 04:03:09 GMT 2023","Thu Nov 30 04:03:13 GMT 2023","4162","","guru.qa.SelenideTest","","guru.qa.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Thu Nov 30 04:03:07 GMT 2023","Thu Nov 30 04:03:08 GMT 2023","1090","","guru.qa.AttachmentsTest","","guru.qa.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Thu Nov 30 04:03:15 GMT 2023","Thu Nov 30 04:03:17 GMT 2023","1979","","guru.qa.StepsTest","","guru.qa.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Thu Nov 30 04:03:13 GMT 2023","Thu Nov 30 04:03:15 GMT 2023","1984","","guru.qa.StepsTest","","guru.qa.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
